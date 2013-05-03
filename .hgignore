@@ -1,0 +1,19 @@
+
+syntax: regexp
+^src/q\.txt$
+syntax: regexp
+^src/test\.sh$
+syntax: regexp
+^src/mytest\.py$
+syntax: regexp
+^src/datadir$
+syntax: regexp
+^src/pytagsfs-0\.9\.2$
+syntax: regexp
+^src/tag_manual\.txt$
+syntax: regexp
+^src/tag$
+syntax: regexp
+^src/xmp_orig\.py$
+syntax: regexp
+^src/fsutils\.py$
